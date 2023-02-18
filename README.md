@@ -6,8 +6,8 @@
 ##
 <br>
 <div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfs-junior&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfs-junior&layout=compact&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfs-junior&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfs-junior&layout=compact&theme=transparent">
 </div>
 
 #### DEV Skills: 
